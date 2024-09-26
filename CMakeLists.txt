@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.26)
+project(Exercicios_1_ao_10 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Exercicios_1 Exercicio_1.c)
+add_executable(Exercicios_2 Exercicio_2.c)
+add_executable(Exercicios_3 Exercicio_3.c)
+add_executable(Exercicios_4 Exercicio_4.c)
+add_executable(Exercicios_5 Exercicio_5.c)
+add_executable(Exercicios_6 Exercicio_6.c)
+add_executable(Exercicios_7 Exercicio_7.c)
+add_executable(Exercicios_8 Exercicio_8.c)
+add_executable(Exercicios_9 Exercicio_9.c)
+add_executable(Exercicios_10 Exercicio_10.c)

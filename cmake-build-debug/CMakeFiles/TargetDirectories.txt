@@ -1,0 +1,12 @@
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_1.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_2.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_3.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_4.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_5.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_6.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_7.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_8.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_9.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/Exercicios_10.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alunos/CLionProjects/Exercicios_1_ao_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
